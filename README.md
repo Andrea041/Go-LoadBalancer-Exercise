@@ -1,14 +1,16 @@
-Esercizio in Go per il corso di SDCC
+Exercise in Go for the SDCC course
 
-Per un corretto utilizzo del programma è necessario aver installato nel proprio PC:
-- Go (in particolare l'applicazione è stata sviluppata nella verisone di Go 1.21.5)
+For correct use of the program, it is necessary to have installed on your PC:
+- Go (specifically, the application has been developed using Go version 1.21.5)
 
-L'applicazione sviluppata offre un servizio per la conversione della valuta da lira a euro (LiraToEuro) e da euro a lira (EuroToLira). In particolare per testare l'applicazione occorre eseguire i seguenti programmi:
+The developed application offers a service for currency conversion from lire to euros (LiraToEuro) and from euros to lire (EuroToLira). In particular, to test the application, you need to execute the following programs:
 - client.go
 - loadBalancer.go
 - server.go
-Da terminale digitare:
+  
+From the terminal, type:
 - go run client.go
 - go run loadBalancer.go
-- go run server.go x (dove x sta ad indicare un numero da 0 a 2, poichè nel file di configurazione sono state create tre repliche del server)
-E' necessario mettere in esecuzione tutti e tre i server per poter vedere una corretta esecuzione del programma.
+- go run server.go x (where x indicates a number from 0 to 2, as three replicas of the server have been created in the configuration file)
+
+It is necessary to execute all three servers in order to see correct execution of the program.
