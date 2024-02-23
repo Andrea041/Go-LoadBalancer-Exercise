@@ -3,7 +3,8 @@
 For correct usage of the program, it is necessary to have installed on your PC:
 - Go (specifically, the application has been developed using Go version 1.21.5)
 
-The developed application offers a service for currency conversion from lire to euros (LiraToEuro) and from euros to lire (EuroToLira). In particular, to test the application, you need to execute the following programs:
+The developed application offers a service for currency conversion from lire to euros (LiraToEuro) and from euros to lire (EuroToLira).  
+In particular, to test the application, you need to execute the following programs:
 - client.go
 - loadBalancer.go
 - server.go
