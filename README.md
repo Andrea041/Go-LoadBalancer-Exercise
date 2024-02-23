@@ -1,5 +1,5 @@
-# Go "mini-project" for the Distributed System and Cloud Computing course
-
+# "mini-project" for the Distributed System and Cloud Computing course
+## Implementation of a load balancer
 For correct usage of the program, it is necessary to have installed on your PC:
 - Go (specifically, the application has been developed using Go version 1.21.5)
 
