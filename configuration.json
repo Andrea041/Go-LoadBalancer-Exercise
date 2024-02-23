@@ -1,0 +1,14 @@
+{
+    "server0": {
+        "address": "localhost",
+        "port": ":1000"
+    },
+    "server1": {
+        "address": "localhost",
+        "port": ":1001"
+    },
+    "server2": {
+        "address": "localhost",
+        "port": ":1002"
+    }
+}
