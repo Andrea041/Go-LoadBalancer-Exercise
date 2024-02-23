@@ -1,4 +1,4 @@
-# Exercise in Go for the Distributed System and Cloud Computing course
+# Go 'mini-project' for the Distributed System and Cloud Computing course
 
 For correct usage of the program, it is necessary to have installed on your PC:
 - Go (specifically, the application has been developed using Go version 1.21.5)
