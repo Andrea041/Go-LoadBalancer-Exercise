@@ -13,4 +13,4 @@ From the terminal, type:
 - go run loadBalancer.go
 - go run server.go x (where x indicates a number from 0 to 2, as three replicas of the server have been created in the configuration file)
 
-It is necessary to execute all three servers in order to see correct execution of the program.
+It is necessary to execute all three servers in order to see the correct execution of the program.
